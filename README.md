@@ -69,6 +69,10 @@ Basic materials ordered from the same places as him.
 ### Sensors
 
 
+## Assemblies
+
+![alt text](image.png)
+
 
 ## Epoxy Concrete pouring
 
