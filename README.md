@@ -66,6 +66,10 @@ Basic materials ordered from the same places as him.
     |ECMA-C20807RS|AC Servo Motor 750W ECMA-C20807RS|2|https://www.damencnc.com/en/ac-servo-motor-750w-ecma-c20807rs/a815|
     |ECMA-C20807SS|AC Servo Motor 750W with Brake ECMA-C20807SS|1|https://www.damencnc.com/en/ac-servo-motor-750w-with-brake-ecma-c20807ss/a816|
 
+* Spindle       
+
+    https://vallder.com/product/atc-spindle-3-0kw/
+
 ### Sensors
 
 
