@@ -53,9 +53,9 @@ Basic materials ordered from the same places as him.
 
     |Reference|Descr.|Amount|
     |---|---|---|
-    |DFU2005|Total length  mm|1|
-    |DFU2005|Total length  mm|1|
-    |DFU2005|Total length  mm|1|
+    |DFU2005|Total length 600 mm|1|
+    |DFU2005|Total length 650 mm|1|
+    |DFU2005|Total length 700 mm|1|
 
 ### Actuators
 
