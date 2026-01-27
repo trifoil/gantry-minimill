@@ -110,3 +110,8 @@ Thread - nut length * security coefficient in %
 
     570 - 86 = 484 mm -> ```460mm usable``` for the table dimensions
 
+for the x axis (longitudinal), the ballscrew can be shorter, but for the y axis, since the spindle is narrower than the table, the screw has to be closer to the length of the rails.
+
+750 rail -> 650 screw (484) -> 484/750 = 0.64 -> 5% more so it should be the longitudinal side but not that much of a gain.
+900 rail -> 700 screw (534) -> 534/900 = 0.59 -> 
+
