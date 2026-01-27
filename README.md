@@ -75,10 +75,32 @@ Basic materials ordered from the same places as him.
 
 ## Assemblies
 
-![alt text](image.png)
 
 
 ## Epoxy Concrete pouring
 
 Stef states "```258kg of silimix and 28,5kg epoxy```". 
+
+## Reasoning
+
+The useful lengths for the x axis and y axis are : 
+
+Thread - nut length * security coefficient in %
+
+* 700mm screw   
+
+    For the 700mm screw, 620mm is threaded, and the nut is 86mm
+
+    620 - 86 = 534 mm -> 520mm usable for the table dimensions
+
+    but for the x axis, it would be better to keep some distance for the toolchanger -> 120 mm on the side
+
+    ```400 mm left ```
+
+
+* 650mm screw       
+
+    For the 650mm screw, 570mm is threaded, and the nut is 86mm
+
+    570 - 86 = 484 mm -> ```460mm usable``` for the table dimensions
 
