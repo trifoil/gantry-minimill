@@ -40,6 +40,12 @@ Basic materials ordered from the same places as him.
     |RGR25R750|750mm|1|
     |RGR25R900|900mm|1|
 
+* Rollers       
+    |Reference|Descr.|Amount|
+    |---|---|---|
+    |RGH25HAZAH|Narrow rollers|8|
+    |RGW25HCZAH|Wide rollers|4|
+
 * Bearings     
 
     |Reference|Descr.|Amount|Link|
